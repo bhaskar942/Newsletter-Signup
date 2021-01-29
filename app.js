@@ -66,11 +66,6 @@ app.listen( process.env.PORT || 3000, function() {
   console.log("Server is up and running");
 });
 
-// API Key
-// a56cb20a835dc60bfbdb4f130e474e02-us7
-
-//List ID
-// da138be888
 
 
 //heroku link
